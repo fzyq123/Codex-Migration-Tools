@@ -1,0 +1,22 @@
+# Local documentation retained for reference only
+/local-readmes/
+/quick-switch/
+
+# Runtime backups and sensitive Codex / CC Switch data
+/backups/
+/auth.json
+/config.toml
+/.env
+/.env.*
+!/.env.example
+/*.db
+/*.db-*
+/*.sqlite
+/*.sqlite-*
+/*.snapshot*
+/*.jsonl
+
+# Python and operating-system generated files
+__pycache__/
+*.py[cod]
+.DS_Store
