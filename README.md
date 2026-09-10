@@ -38,7 +38,7 @@ CC Switch 兼容逻辑是针对 3.20.2 的配置行为编写和验证的。其�
 ## 获取与测试
 
 ```bash
-git clone https://github.com/OWNER/REPOSITORY.git
+git clone https://github.com/fzyq123/Codex-Migration-Tools.git codex-migration
 cd codex-migration
 python3 -m unittest discover -s . -p 'test_*.py'
 ```
