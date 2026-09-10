@@ -291,6 +291,10 @@ python3 ccswitch_codex_openai_compat.py \
 └── test_codex_history_migrator.py
 ```
 
+## 开源许可证
+
+本项目采用 MIT License，详情参见 LICENSE。
+
 ## 致谢与参考
 
 - `makoMakoGo/fish-claude` 中 `codex-provider-history-migrator` 的 provider 对齐思路；
